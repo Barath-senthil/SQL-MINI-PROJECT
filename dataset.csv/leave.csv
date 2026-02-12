@@ -1,0 +1,21 @@
+employee_id,leave_type,days,approved
+101,Sick Leave,2,yes
+102,Personal Leave,1,yes
+103,Sick Leave,3,yes
+104,Personal Leave,1,yes
+105,Emergency Leave,2,yes
+106,Sick Leave,1,yes
+107,Personal Leave,2,yes
+108,Sick Leave,2,yes
+109,Personal Leave,1,yes
+110,Sick Leave,1,yes
+111,Personal Leave,1,yes
+112,Sick Leave,2,yes
+113,Emergency Leave,1,yes
+114,Personal Leave,1,yes
+115,Sick Leave,3,yes
+116,Sick Leave,1,yes
+117,Personal Leave,2,yes
+118,Sick Leave,2,yes
+119,Personal Leave,1,yes
+120,Sick Leave,1,yes
